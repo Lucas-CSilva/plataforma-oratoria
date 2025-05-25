@@ -2,18 +2,6 @@
 node_modules/
 .next/
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-venv/
-.env
-*.env
-
-# Poetry
-poetry.lock
-
 # VSCode/IDE
 .vscode/
 .idea/
